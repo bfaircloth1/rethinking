@@ -9,6 +9,8 @@ page 95-96: dnorm(156,100) should be dnorm(178,100) in both model presentation a
 
 page 103, R code 4.50: The ``post`` object implied here is the one from R code 4.46: ``post <- extract.samples(m4.3)``.
 
+page 115, Problem 4M3:  b should be b ~ dnorm(0,10), not dunif(0,10) [per the solutions guide].
+
 page 125: Below R code 5.4, "The posterior mean for age at marriage, ba, ..." 'ba' should be 'bA'.
 
 page 156, near top: "In fact, if you try to include a dummy variable for apes, you'll up with..." Should be "you'll end up with".
